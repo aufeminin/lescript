@@ -8,8 +8,8 @@ class Lescript
     // public $ca = 'https://acme-staging.api.letsencrypt.org'; // testing
     public $license = 'https://letsencrypt.org/documents/LE-SA-v1.0.1-July-27-2015.pdf';
     public $rootcert = 'https://letsencrypt.org/certs/isrgrootx1.pem.txt';
-    public $countryCode = 'CZ';
-    public $state = "Czech Republic";
+    public $countryCode = 'FR';
+    public $state = "France";
 
     private $certificatesDir;
     private $webRootDir;
